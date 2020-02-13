@@ -1,6 +1,6 @@
 ---
 title: "Collaborative Filter"
-author: "Charles Lang"
+author: "Sizheng Zhu"
 date: "1/5/2018"
 output: html_document
 ---
